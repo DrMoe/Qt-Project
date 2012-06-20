@@ -1,3 +1,4 @@
+//Main
 #include <QtGui/QApplication>
 #include "diablomain.h"
 
