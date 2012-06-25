@@ -2,6 +2,8 @@
 #define DIABLOMAIN_H
 
 #include <QMainWindow>
+#include <QtCore>
+
 
 namespace Ui {
 class diablomain;
