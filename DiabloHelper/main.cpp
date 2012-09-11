@@ -1,4 +1,5 @@
 //Main
+//Test
 #include <QtGui/QApplication>
 #include "diablomain.h"
 
